@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.111,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UArdEmul.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UArdEmul.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UArdEmul.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\USimpleServer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UArdEmul.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UDebug.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UDebug.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHostName.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UHostName.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UThreadConnect.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\USimpleServer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UHostName.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHostName.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UHostName.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UDebug.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHighVoltage.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHighVoltage.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UMainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\PSimpleServer.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\USimpleServer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UArdEmul.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UArdEmul.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UHostName.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dproj=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHighVoltage.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UHighVoltage.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UMainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\UDebug.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\UDebug.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.pas=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\USimpleServer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dproj=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\PSimpleServer.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\High voltage\HighVoltage.dproj=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Without sense\WithoutSense.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\UDebug.dfm=C:\Users\Kilma\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
